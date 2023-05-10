@@ -1,3 +1,3 @@
 # minishell
 
-⌨️ A small shell program in C following bash implementation
+⌨️ A simple shell program in C following bash implementation
